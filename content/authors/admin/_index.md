@@ -1,39 +1,43 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jan Luca Pletzer
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Erasmus University Rotterdam
+  url: https://www.eur.nl
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am an assistant professor in Work and Organizational Psychology at Erasmus University Rotterdam. My research combines the topics of personality, contextual performance, and leadership, often using meta-analyses. I currently teach a first year course introductory course in organizational psychology and a graduate course about attitudes and emotions in organizations.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Personality
+- Contextual Performance
+- Leadership
+- Meta-Analyses
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Social and Organizational Psychology
+    institution: VU Amsterdam
+    year: 2018
+  - course: PhD in Business Administration (with distinction)
+    institution: Jacobs University Bremen
+    year: 2018
+  - course: MSc in Industrial and Organizational Psychology
+    institution: University of Groningen
+    year: 2013
+  - course: BsC in Psychology
+    institution: University of Groningen
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

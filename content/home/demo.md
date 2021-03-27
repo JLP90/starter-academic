@@ -5,11 +5,12 @@
 
 widget = "blank"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "Academic Template"
 subtitle = ""
+
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -39,6 +40,7 @@ subtitle = ""
   text_color_light = true
 
 [design.spacing]
+
   # Customize the section spacing. Order is top, right, bottom, left.
   padding = ["20px", "0", "20px", "0"]
 
