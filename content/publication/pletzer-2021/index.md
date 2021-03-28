@@ -36,4 +36,5 @@ publication_types:
 abstract: ''
 publication: '*Human Performance*'
 doi: 10.1080/08959285.2021.1891072
+url_pdf: "pletzer-2021-HP.pdf"
 ---
