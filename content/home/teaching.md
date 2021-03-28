@@ -21,6 +21,5 @@ Currently, I coordinate two courses at Erasmus University Rotterdam:
  - "People at Work" - a first-year introductory organizational psychology course
 - "Attitudes and Emotions in Organizations" - a graduate course in the Work and Organizational Psychology Master
 
-I am also responsible for the a practical callled "Conducting Research in Organizations" in the Work and Organizational Psychology Master.
-
-And I  supervise approximately 5-8 Bachelor and 7-8 Master students each year.
+I am also coordinating a practical called "Conducting Research in Organizations" in the Work and Organizational Psychology Master.
+And I  supervise approximately 10-15 undergraduate and graduate students each year.
