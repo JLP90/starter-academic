@@ -35,7 +35,7 @@ education:
   - course: MSc in Industrial and Organizational Psychology
     institution: University of Groningen
     year: 2013
-  - course: BsC in Psychology
+  - course: BSc in Psychology
     institution: University of Groningen
     year: 2012
 
