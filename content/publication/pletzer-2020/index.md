@@ -54,6 +54,5 @@ abstract: Personality research suggests that the prediction of organizational be
   predict workplace deviance can be more efficient than using all six broad domains.
   © 2019 Elsevier Ltd
 publication: '*Personality and Individual Differences*'
-url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85072165162&doi=10.1016%2Fj.paid.2019.109539&partnerID=40&md5=98ab6954e17b51ee6c3412dd0cf1aab0
 doi: 10.1016/j.paid.2019.109539
 ---
