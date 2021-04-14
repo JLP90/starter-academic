@@ -17,7 +17,7 @@ header:
   image: ""
 ---
 
-Currently, I coordinate two courses at Erasmus University:
+Currently, I coordinate two courses at Erasmus University Rotterdam:
 - "People at Work" - a first-year introductory organizational psychology course
 - "Attitudes and Emotions in Organizations" - a graduate course in the Work and Organizational Psychology Master
 
