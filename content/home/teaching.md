@@ -25,7 +25,7 @@ This is a first-year introductory organizational psychology course. The course i
 
 
 ### "Attitudes and Emotions in Organizations"
-This is a graduate course in our Work and Organizational Psychology Master program. The course addresses how job-related attitudes and emotional experiences at work relate to experiences and behavior at work. We cover topics such as job satisfaction, organizational commitment, justice theory, emotional labor, and emotional intelligence. A special focus is placed on critically evaluating the scientific literature about these topics. 
+This is a graduate course in our Work and Organizational Psychology Master program. The course addresses how job-related attitudes and emotional experiences at work relate to behavior at work. We cover topics such as job satisfaction, organizational commitment, justice theory, emotional labor, and emotional intelligence. A special focus is placed on critically evaluating the scientific literature. 
 
 
 
