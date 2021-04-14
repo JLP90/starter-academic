@@ -14,7 +14,8 @@ organizations:
   url: https://www.eur.nl
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an assistant professor in Work and Organizational Psychology at Erasmus University Rotterdam. My research combines the topics of personality, contextual performance, and leadership, often using meta-analyses. I currently teach a first year introductory course in organizational psychology and a graduate course about attitudes and emotions in organizations.
+bio: I am an assistant professor in Work and Organizational Psychology at Erasmus University Rotterdam. My research combines the topics of personality, contextual performance, and leadership, often using meta-analyses. 
+I currently teach a first year introductory course in organizational psychology and a graduate course about attitudes and emotions in organizations.
 
 # Interests to show in About widget
 interests:
